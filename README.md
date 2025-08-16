@@ -44,8 +44,7 @@ Compatible with **hex colors** and **built-in color blocks**.
 
 ## 📥 Downloads
 
-- 🔗 [.aix Extension File](AdvStatusBarTools.aix)  
-- 🔗 [Source Code](AdvStatusBarTools.java)  
+- 🔗 Check uploaded files. 
 
 ---
 
